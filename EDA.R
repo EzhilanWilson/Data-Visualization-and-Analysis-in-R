@@ -340,29 +340,3 @@ ggplot(almapr_prod, aes(x = `Alma Mater`, y = `Count`)) +
        y = "Count")
 
 ```
-
-**ACTION PLAN**
-
-Many employees left the organization within after completing nine months of service. Another peak is observed during the first six to nine months of employment. The number of people who resigned before three months was comparatively less. In the initial months, when most hires retain, management should therefore focus on acquainting new hires with the organization and with how organizational outcomes merge with the career goals of the candidates. After six months, employee engagement should be actively addressed, which will help to develop a sense of employee loyalty. Employees' needs, wants, goals, and desires must be understood.
-
-• The more time remaining before an employee's next promotion or raise, the higher the rate of attrition. It is therefore advisable to annually offer performance-based raises and thereby foster regular motivation among employees. It could also be fruitful to start a retention program where the employee receives a retention bonus after completing a certain number of months with the organization.
-
-• Many employees who resigned within the first year of employment cited the remote job location as a reason for their resignation. These employees can be persuaded to stay if more amenities, such as cinemas and shopping malls, are brought into the township. This percentage could also be reduced by eliminating such candidates in the initial interview phase, preferring candidates who are already acquainted with production roles and remote places.
-
- • Candidates from Delhi, Punjab, Kerala, and Maharashtra make up a significant portion of first-year resignations. Employees from Bihar, Jharkhand, and Chhattisgarh are found to resign the least, as they are acquainted with such power-generation environments and are comfortable with APL's work environment. It is therefore advisable to analyze a candidate's suitability to a particular location before that candidate is hired. Since the first-year turnover rate of employees from nearby states is low, such candidates should be favoured in the interview process, paying heed to their previous place of residence, therein providing a perfect match to their skills and expertise.
-
-• Of employees who resigned in the first year of employment, 19 per cent found the work unchallenging and boring. Such employees should be actively sought out, given challenging projects, and actively monitored by leadership to tap into the individuals' zeal and potential to contribute toward organizational gains. Each new employee should be educated about the stringent business environment (perhaps by providing realistic job previews), attuning employees to the cost competitiveness that APL is addressing in the power sector.
-
- • To retain those employees who leave to pursue further studies, executive education programs with reputed academic institutes could be proposed. The resignation of high-performing employees could be avoided by encouraging such employees to pursue their dreams of obtaining degrees from these institutions.
-
-• It is quite evident that employees who are the least engaged in extramural activities are found to resign the most. There is, therefore, a need to increase employee engagement. Employees who find themselves closely related within the organizational purview and who associate with other colleagues help to create a sense of communalism and foster companionship, rapport, innovation, and growth. Less engaged employees should be identified and made to feel comfortable and engaged through a program that connects mature APL employees with new APL employees.
-
-Because attrition is lower for other sources than it is for campus recruitment, it is advisable to calibrate the quality of hire with the source of hire for multiple years of data, revising the percentage of hiring from each channel (which is currently 20 per cent per channel). Hiring from referrals and LinkedIn appears effective in building the optimal talent pool.
-
- • A list of campuses from which to recruit needs to be revised, with careful analysis on the retention period and the quality of hires from a particular campus for multiple years. Based on the current evaluation, it is advisable to hire more from NITs and other institutions than from IITs and DTU.
-
- • Training expenses of between \$100 and \$200 per candidate appear to achieve the best rates of capital employment and employee retention. Attrition was higher when the training expenses were lower; however, attrition was even higher in candidates when \$200--\$300 was invested in their training, as the candidate's demand was likely raised among competitors as a result of the employee's training.
-
- • When the notice period increases, resignations decrease by about 25 per cent when compared with resignations from employees without a notice period. Therefore, it is better to have a reasonable notice period with which to convey the serious nature of resigning to employees.
-
- • Higher absenteeism is directly proportional to the level of attrition observed; therefore, it is advisable to carefully observe attendance rates and check excess leaves. Employees who take leaves may be preparing for further exams
